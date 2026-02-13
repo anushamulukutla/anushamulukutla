@@ -7,7 +7,7 @@
 - Currently leading QA initiatives for AI-based communication platforms with focus on scalability and reliability
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushamulukutla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-mulukutla/)
 
 # 💻 Tech Stack:
 
