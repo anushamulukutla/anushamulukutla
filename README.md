@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-- Senior QA Automation Engineer with 4+ years of experience in AI-driven applications and complex technology environments
+- Senior QA Automation Engineer with 5+ years of experience in AI-driven applications and complex technology environments
 - Expert in test automation frameworks using Selenium, Cypress, and Python with OOP principles and Page Object Model (POM)
 - Specialized in vendor product testing, CI/CD integration, and end-to-end automation strategies
 - Passionate about quality assurance, test-driven development, and continuous improvement in Agile environments
